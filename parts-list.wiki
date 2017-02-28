@@ -1,0 +1,24 @@
+
+Parts list for clock module
+---------------------------
+
+| Part name             | Count | Unit Price | Total price |
+|-----------------------|-------|------------|-------------|
+| Resistors (assorted)  | 10    | $0.16      | $1.60       |
+| Push button           | 1     | $0.50      | $0.50       |
+| Slide switch          | 1     | $0.39      | $0.39       |
+| 74LS04 (Hex inverter) | 1     | $0.62      | $0.62       |
+| 74LS08 (Quad AND)     | 1     | $0.56      | $0.56       |
+| 74LS32 (Quad OR)      | 1     | $0.52      | $0.52       |
+| LM555 (timer)         | 3     | $0.34      | $1.02       |
+| LED (Yellow)          | 4     | $0.45      | $1.80       |
+| 14 pin IC socket      | 3     | $0.21      | $0.63       |
+| 8 pin IC socket       | 3     | $0.18      | $0.54       |
+| 0.01uF Capacitor      | 4     | $0.15      | $0.60       |
+| 0.1uF Capacitor       | 1     | $0.10      | $0.10       |
+| 1uF Capacitor         | 1     | $0.10      | $0.10       |
+
+Total:  $8.98
+
+
+1.60 + 0.50 + 0.39 + 0.62 + 0.56 + 0.52 + 1.02 + 1.80 + 0.63 + 0.54 + 0.60 + 0.10 + 0.10

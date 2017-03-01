@@ -1,4 +1,4 @@
-update=Tue 28 Feb 2017 10:35:52 AM PST
+update=Tue 28 Feb 2017 03:48:39 PM PST
 version=1
 last_client=pcbnew
 [general]
@@ -49,14 +49,14 @@ PadDrill=0.762
 PadDrillOvalY=0.762
 PadSizeH=1.524
 PadSizeV=1.524
-PcbTextSizeV=1.5
-PcbTextSizeH=1.5
+PcbTextSizeV=1
+PcbTextSizeH=1
 PcbTextThickness=0.3
 ModuleTextSizeV=1
 ModuleTextSizeH=1
 ModuleTextSizeThickness=0.15
 SolderMaskClearance=0.5
 SolderMaskMinWidth=0
-DrawSegmentWidth=0.2
+DrawSegmentWidth=0.15
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15

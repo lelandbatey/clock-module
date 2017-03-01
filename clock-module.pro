@@ -1,4 +1,4 @@
-update=Thu 09 Feb 2017 01:16:13 PM PST
+update=Tue 28 Feb 2017 02:55:33 PM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,13 @@ LibName28=contrib
 LibName29=valves
 LibName30=package_libraries/nte4082b
 LibName31=/home/leland/projects/kicad-projects/kicad-library/library/switches
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
